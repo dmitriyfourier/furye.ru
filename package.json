@@ -1,9 +1,9 @@
 {
-    "name": "paulradzkov.com",
+    "name": "furye.ru",
     "version": "0.1.0",
     "private": true,
-    "description": "Blog running on DocPad",
-    "homepage": "https://github.com/paulradzkov/paulradzkov.com",
+    "description": "Сайт собранный с помощью DocPad",
+    "homepage": "https://github.com/dmitriyfourier/furye.ru",
     "keywords": [
         "docpad-skeleton",
         "docpad",
@@ -12,19 +12,19 @@
         "html5 boilerplate",
         "h5bp"
     ],
-    "author": "Paul Radzkov <radzkov@gmail.com> (http://paulradzkov.com)",
+    "author": "Paul Radzkov <radzkov@gmail.com> (http://furye.ru)",
     "maintainers": [
-        "Paul Radzkov <radzkov@gmail.com> (http://paulradzkov.com)"
+        "Paul Radzkov <radzkov@gmail.com> (http://furye.ru)"
     ],
     "contributors": [
-        "Paul Radzkov <radzkov@gmail.com> (http://paulradzkov.com)"
+        "Paul Radzkov <radzkov@gmail.com> (http://furye.ru)"
     ],
     "bugs": {
-        "url": "https://github.com/paulradzkov/paulradzkov.com/issues"
+        "url": "https://github.com/paulradzkov/furye.ru/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/paulradzkov/paulradzkov.com.git"
+        "url": "https://github.com/paulradzkov/furye.ru.git"
     },
     "engines": {
         "node": "0.8.x",

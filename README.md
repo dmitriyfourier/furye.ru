@@ -1,23 +1,30 @@
-# [paulradzkov.com](http://paulradzkov.com/) blog built with [DocPad](https://github.com/bevry/docpad)
+# [furye.ru](http://furye.ru/) сайт собранный с помощью [DocPad](https://github.com/bevry/docpad)
 
+1. Установим базовые пакеты и DocPad
 
-## Getting Started
+	```bash
+	npm install -g npm
+	npm install -g docpad@latest
+	```
 
-1. [Install DocPad](https://github.com/bevry/docpad)
-2. ```npm install -g bower```
-3. ```npm install -g grunt-cli```
+2. Установим базовые зависимости
 
-4. Clone the project and run the server
+	```bash
+	npm install -g bower
+	npm install -g grunt-cli
+	```
+
+4. Клонируем проект и запускаем сервер разработки
 
 	``` bash
-	git clone https://github.com/paulradzkov/paulradzkov.com.git
+	git clone https://github.com/dmitriyfourier/furye.ru.git
 	cd paulradzkov.com
 	npm install
 	bower install
 	grunt
 	```
 
-1. [Open http://localhost:9778/](http://localhost:9778/)
+1. [Открыть http://localhost:9778/](http://localhost:9778/)
 
 
 ## License
