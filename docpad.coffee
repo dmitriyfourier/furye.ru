@@ -16,31 +16,31 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "https://paulradzkov.com"
+			url: "https://furye.ru"
 
-			canonicalUrl: "https://paulradzkov.com"
+			canonicalUrl: "https://furye.ru"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.paulradzkov.com'
+				'www.furye.ru'
 			]
 
 			# The default title of our website
-			title: "Павел Радьков"
+			title: "Дмитрий Фурье"
 
 			# RSS title of our website
-			rssTitle: "Блог Павла Радькова"
+			rssTitle: "Заметки Димы Фурье"
 
 			# Author name used in copyrights and meta data
-			author: "Павел Радьков"
-			twittername: "@paul_radzkov"
+			author: "Дмитрий Фурье"
+			twittername: "@dmitriyfourier"
 
 			# Change to your disqus name or comment it out to disable comments
-			disqus_shortname: "paulradzkov"
+			disqus_shortname: "dmitriyfourier"
 
 			# The website description (for SEO)
 			description: """
-				Заметки о веб-разработке Павла Радькова.
+				Заметки Димы Фурье.
 				"""
 
 			# The website keywords (for SEO) separated by commas
@@ -48,11 +48,11 @@ docpadConfig = {
 				Paul Radzkov, web-developer, blog, html, css
 				"""
 
-			email: "radzkov@gmail.com"
+			email: "dmitriyfurye@gmail.com"
 
-			googleAnalyticsId: "UA-29416794-1"
+			googleAnalyticsId: "1233"
 
-			googleAnalyticsDomain: "paulradzkov.com"
+			googleAnalyticsDomain: "furye.ru"
 
 			# The website's styles
 			styles: [
@@ -197,7 +197,7 @@ docpadConfig = {
 		ghpages:
 			templateData:
 				site:
-					url: 'http://paulradzkov.com'
+					url: 'http://furye.ru'
 
 		development:
 			templateData:

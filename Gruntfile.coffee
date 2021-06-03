@@ -299,19 +299,19 @@ module.exports = (grunt) ->
 		'gh-pages':
 			options:
 				base: 'out'
-				branch: 'master'
-				repo: 'https://github.com/paulradzkov/paulradzkov.github.io.git'
+				branch: 'main'
+				repo: 'https://github.com/dmitriyfourier/dmitriyfourier.github.io.git'
 			src: ['**/*']
 
 		'ftp-deploy':
 			build:
 				auth:
-					host: 'paulradzkov.com'
+					host: 'furye.ru'
 					port: 21
 					authPath: '.ftppass'
 					authKey: 'primary'
 				src: 'out/'
-				dest: '/www/paulradzkov.com'
+				dest: '/www/furye.ru'
 				exclusions: [
 					'out/**/.DS_Store'
 					'out/**/Thumbs.db'
@@ -320,11 +320,11 @@ module.exports = (grunt) ->
 		pagespeed:
 			options:
 				nokey: true
-				url: "http://paulradzkov.com"
+				url: "http://furye.ru"
 				locale: "ru_RU"
 			prod:
 				options:
-					url: "http://paulradzkov.com"
+					url: "http://furye.ru"
 					strategy: "desktop"
 					threshold: 90
 			paths:
