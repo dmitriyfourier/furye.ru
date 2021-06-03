@@ -1,0 +1,39 @@
+.allpage-settings() {
+    @allpage-maw: 1440px;
+    @allpage-pad: 2rem;
+}
+
+.allpage {
+    .allpage-settings();
+
+    min-height: 100vh;
+
+    &--body {
+        padding: (@allpage-pad * 2) @allpage-pad @allpage-pad;
+    }
+
+    &-max-width {
+        @media screen and (min-width: @allpage-maw) {
+            max-width: @allpage-maw;
+            margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 0 0 1px #f1f1f1;
+        }
+    }
+
+    &-stickyfooter {
+        display:flex;
+        flex-direction:column;
+        align-items: stretch;
+        align-content: stretch;
+
+        .allpage--body {
+            flex-grow:1;
+        }
+    }
+
+    &--article-footer {
+        padding-left: @allpage-pad;
+        padding-right: @allpage-pad;
+    }
+}
