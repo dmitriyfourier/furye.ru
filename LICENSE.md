@@ -1,0 +1,1 @@
+You are free to use code (HTML/JS/CoffeeScript) of this site, but you can’t use design (css, images) and content.

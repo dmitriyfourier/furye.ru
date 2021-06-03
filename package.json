@@ -1,0 +1,87 @@
+{
+    "name": "paulradzkov.com",
+    "version": "0.1.0",
+    "private": true,
+    "description": "Blog running on DocPad",
+    "homepage": "https://github.com/paulradzkov/paulradzkov.com",
+    "keywords": [
+        "docpad-skeleton",
+        "docpad",
+        "website",
+        "skeleton",
+        "html5 boilerplate",
+        "h5bp"
+    ],
+    "author": "Paul Radzkov <radzkov@gmail.com> (http://paulradzkov.com)",
+    "maintainers": [
+        "Paul Radzkov <radzkov@gmail.com> (http://paulradzkov.com)"
+    ],
+    "contributors": [
+        "Paul Radzkov <radzkov@gmail.com> (http://paulradzkov.com)"
+    ],
+    "bugs": {
+        "url": "https://github.com/paulradzkov/paulradzkov.com/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paulradzkov/paulradzkov.com.git"
+    },
+    "engines": {
+        "node": "0.8.x",
+        "npm": "1.1.x"
+    },
+    "dependencies": {
+        "coffeescript": "^2.5.1"
+    },
+    "devDependencies": {
+        "autoprefixer": "^6.0.1",
+        "bettertext.css": "^2.0.4",
+        "cssnano": "^5.0.5",
+        "docpad": "6.79.4",
+        "docpad-plugin-cleanurls": "~2.11.0",
+        "docpad-plugin-coffeescript": "~2.6.0",
+        "docpad-plugin-eco": "~2.2.1",
+        "docpad-plugin-highlightjs": "^2.5.0",
+        "docpad-plugin-less": "^2.6.0",
+        "docpad-plugin-livereload": "^2.10.0",
+        "docpad-plugin-marked": "^2.5.0",
+        "docpad-plugin-moment": "~2.0.2",
+        "docpad-plugin-navlinks": "~2.0.4",
+        "docpad-plugin-partials": "~2.11.0",
+        "docpad-plugin-raw": "~2.5.1",
+        "docpad-plugin-rss": "~2.3.1",
+        "docpad-plugin-sitemap": "~2.4.0",
+        "docpad-plugin-stylus": "^2.14.0",
+        "flxgrid.css": "^1.0.0",
+        "grunt": "^1.4.1",
+        "grunt-contrib-clean": "^2.0.0",
+        "grunt-contrib-compress": "^2.0.0",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-cssmin": "^4.0.0",
+        "grunt-contrib-htmlmin": "^3.1.0",
+        "grunt-contrib-imagemin": "^4.0.0",
+        "grunt-contrib-jshint": "^3.0.0",
+        "grunt-contrib-less": "^3.0.0",
+        "grunt-contrib-uglify": "^5.0.1",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-ftp-deploy": "^0.2.0",
+        "grunt-gh-pages": "^4.0.0",
+        "grunt-img2base64": "0.0.7",
+        "grunt-modernizr": "^3.0.2",
+        "grunt-pageres": "^4.0.1",
+        "grunt-pagespeed": "^2.0.1",
+        "grunt-postcss": "^0.9.0",
+        "grunt-shell": "^3.0.1",
+        "grunt-shell-spawn": "^0.4.0",
+        "grunt-uncss": "^0.10.0",
+        "ilyabirman-likely": "^2.6.0",
+        "links.less": "0.0.5",
+        "load-grunt-tasks": "^5.1.0",
+        "normalize.css": "^8.0.1",
+        "pixrem": "^5.0.0",
+        "postcss-base64": "^0.7.1",
+        "space.less": "0.0.2",
+        "time-grunt": "^1.4.0"
+    },
+    "main": "node_modules/docpad/bin/docpad-server"
+}
