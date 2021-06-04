@@ -12,19 +12,19 @@
         "html5 boilerplate",
         "h5bp"
     ],
-    "author": "Paul Radzkov <radzkov@gmail.com> (http://furye.ru)",
+    "author": "Dmitriy Fourier <dmitriyfurye@gmail.com> (http://furye.ru)",
     "maintainers": [
-        "Paul Radzkov <radzkov@gmail.com> (http://furye.ru)"
+        "Dmitriy Fourier <dmitriyfurye@gmail.com> (http://furye.ru)"
     ],
     "contributors": [
-        "Paul Radzkov <radzkov@gmail.com> (http://furye.ru)"
+        "Dmitriy Fourier <dmitriyfurye@gmail.com> (http://furye.ru)"
     ],
     "bugs": {
-        "url": "https://github.com/paulradzkov/furye.ru/issues"
+        "url": "https://github.com/dmitriyfourier/furye.ru/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/paulradzkov/furye.ru.git"
+        "url": "https://github.com/dmitriyfourier/furye.ru.git"
     },
     "engines": {
         "node": "0.8.x",
