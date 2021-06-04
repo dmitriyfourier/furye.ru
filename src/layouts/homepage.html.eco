@@ -39,19 +39,19 @@
                     <img srcset="
                         https://paulradzkov.com/avatar/paulradzkov_96x96.jpg 2x,
                         https://paulradzkov.com/avatar/paulradzkov_192x192.jpg 4x
-                        " src="https://paulradzkov.com/avatar/paulradzkov_48x48.jpg" width="48" height="48" alt="Павел Радьков">
+                        " src="https://paulradzkov.com/avatar/paulradzkov_48x48.jpg" width="48" height="48" alt="Дмитрий Фурье">
                 </span>
                 <span class="logo-txt">
-                    <span class="logo-name">Павел&nbsp;Радьков</span>
+                    <span class="logo-name">Дмитрий&nbsp;Фурье</span>
                 </span>
             <% if (@document.url != '/') : %></a><% else : %></span><% end %>
         </div>
         <div class="col-xs-12 col-md">
             <nav class="row space-in-left-kilo-xs space-in-left-micro-md">
-                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#projects"><strong>Проекты</strong></a>
-                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#blog"><strong>Статьи</strong></a>
-                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#faq"><strong>FAQ</strong></a>
-                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm space-auto-left-sm" href="/search">Поиск</a>
+                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#projects"><strong>Меню 1</strong></a>
+                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#blog"><strong>Меню 2</strong></a>
+                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm" href="/#faq"><strong>Меню 3</strong></a>
+                <a class="link-novisited col-xs-12 col-sm-shrink space-in-bottom-nano-xs space-in-v-nano-sm space-auto-left-sm" href="https://blog.furye.ru/">Блог</a>
             </nav>
         </div>
     </header>

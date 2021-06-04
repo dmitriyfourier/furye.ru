@@ -8,7 +8,7 @@ og_image: '/i/og/og-index.png'
 <section class="" id="projects">
     <div class="row row-bottom-sm row-between-sm">
         <div class="col-xs-12 col-sm-shrink">
-            <h1 class="space-in-right-mili-lg">Проекты и продукты</h1>
+            <h1 class="space-in-right-mili-lg">Сделал</h1>
         </div>
         <div class="col-xs-12 col-sm-shrink">
             <p>
@@ -80,7 +80,9 @@ og_image: '/i/og/og-index.png'
 <section class="space-out-top-base-xs space-out-top-kilo-lg" id="blog">
     <div class="row row-bottom-sm" style="align-items: baseline;">
         <div class="col-xs-12 col-sm-shrink">
-            <h1 class="space-in-right-mili-lg">Статьи</h1>
+            <h1 class="space-in-right-mili-lg">Наговорил</h1>
+            <p>Записываю подкасты на самые разные темы:</p>
+
         </div>
         <div class="col-xs-12 col-sm-shrink">
             <p>Подписаться на обновления:
@@ -132,8 +134,8 @@ og_image: '/i/og/og-index.png'
 </section>
 
 <section class="space-out-top-kilo-xs space-out-top-mega-lg space-out-bottom-base-xs" id="faq">
-    <h1>Ответы на вопросы сообщества</h1>
-    <p>На сайте <a href="https://toster.ru/user/paulradzkov">toster.ru</a> отвечаю на вопросы и даю советы по дизайну, вёрстке, организации труда и веб-разработке в целом. Если вы хотите задать мне вопрос, оформите его на <a href="https://toster.ru/">тостере</a> и скиньте ссылку на почту <a href="mailto:radzkov@gmail.com">radzkov@gmail.com</a>. Вот ссылки на некоторые ответы:</p>
+    <h1>Написал</h1>
+    <p>Мнение по самым разным вещам о предпринимательстве, финансах, домоуправлении и том, что волнует. Кое-что из <a href="https://blog.furye.ru/">заметок в блоге</a> и сторонних изданиях</p>
 
     <div class="row faq">
         <div class="col-xs-12 col-md-6 col-lg-4 col-xl-3">
