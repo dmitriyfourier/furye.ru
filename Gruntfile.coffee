@@ -282,19 +282,6 @@ module.exports = (grunt) ->
 						'out/index.html'
 					]
 				dest: 'out/ui/homepage.css'
-			articles:
-				options:
-					timeout: 5000
-					ignore: [
-						/\.likely([-a-zA-Z0-9_:>\*\s\[=\]])*/
-						/\.offline-ui([-a-zA-Z0-9_:>\*\s\[=\]])*/
-					]
-					stylesheets: [
-						'../../ui/framework.css'
-					]
-				files: 'out/ui/framework.css': [
-						'out/2017/*/*.html'
-					]
 
 		'gh-pages':
 			options:
