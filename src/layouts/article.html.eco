@@ -34,7 +34,7 @@
     <link rel="alternate" type="application/atom+xml" title="Atom" href="/atom.xml">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
     <link rel="canonical" href="<%= @site.canonicalUrl %><%= @document.url %>">
-    <meta property="fb:pages" content="297287297277384" />
+    <meta property="fb:pages" content="100009169309589" />
 
     <%- @partial('opengraph') %>
     <%- @partial('twittercard') %>
@@ -98,11 +98,6 @@
                 <%- @partial('likely') %>
             </div>
         </div>
-    </div>
-    <div class="disqus-wrapper">
-        <article id="disqus_thread" class="disqus-container">
-            <noscript>Включите Javascript, чтобы увидеть комментарии.</noscript>
-        </article>
     </div>
     <!--nav class="read-next">
         <%- @getNavLinks() %>
