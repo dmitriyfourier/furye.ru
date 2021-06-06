@@ -1,0 +1,62 @@
+---
+layout: 'homepage'
+title: 'Подкасты Димы Фурье'
+description: 'Подкасты на самые разные темы, домоуправление, образования, финансы и другие'
+og_image: '/i/og/og-index.png'
+---
+<section class="" id="projects">
+    <div class="row row-bottom-sm row-between-sm">
+        <div class="col-xs-12 col-sm-shrink">
+            <h1 class="space-in-right-mili-lg">Наговорил</h1>
+            <p>Записываю подкасты на самые разные темы, тут и финансы, и домоуправление. В целом любло болтать в микрофон. Если хотите побыть моим соведущим, или поучаствовать в каком-то выпуске, или вы эксперт в каокй-то теме - пишите мне в Телеграм.</p>
+            <p>А пока вот, что я успел наговорить</p>
+        </div>
+        <div class="col-xs-12 col-sm-shrink">
+            <!--Some block-->
+        </div>
+    </div>
+
+    <div class="row space-out-top-base-xs">
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="/podcasts/noboring-finance">
+                <p><img src="/i/podcast-images/noboring-finance-pod-orig.jpg" alt=""></p>
+                <h4 class="project-card-title">Нескучные финансы</h4>
+                <p class="project-card-details">Подкаст об управлении бизнесом на основе цифр</p>
+                <p class="space-auto-top-sm space-out-bottom-nano-xs">
+                    <img src="https://badge.fury.io/js/bettertext.css.svg" alt="npm version">
+                </p>
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="/podcasts/young-finance">
+                <p><img src="/i/podcast-images/young-finance-pod-orig.jpg" alt=""></p>
+                <h4 class="project-card-title">Собрались два нищеброда!</h4>
+                <p class="project-card-details">Подкаст о финансовой грамотности для тех, кто молод</p>
+                <p class="space-auto-top-sm space-out-bottom-nano-xs">
+                    <img src="https://badge.fury.io/js/bettertext.css.svg" alt="npm version">
+                </p>
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="/podcasts/pervoe-mesto">
+                <p><img src="/i/podcast-images/pervoe-mesto-pod-orig.png" alt=""></p>
+                <h4 class="project-card-title">Первое место</h4>
+                <p class="project-card-details">Подкаст о том, как управлять многоквартирным домом</p>
+                <p class="space-auto-top-sm space-out-bottom-nano-xs">
+                    <img src="https://badge.fury.io/js/bettertext.css.svg" alt="npm version">
+                </p>
+            </a>
+        </section>
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="/podcasts/ne-nauchili">
+                <p><img src="/i/podcast-images/ne-nauchili-pod-orig.png" alt=""></p>
+                <h4 class="project-card-title">Этому не научили в школе</h4>
+                <p class="project-card-details">Подкаст о вещах, которым не научили в школе, но которые пригодятся в жизни</p>
+                <p class="space-auto-top-sm space-out-bottom-nano-xs">
+                    <img src="https://badge.fury.io/js/bettertext.css.svg" alt="npm version">
+                </p>
+            </a>
+        </section>
+    </div>
+</section>
+

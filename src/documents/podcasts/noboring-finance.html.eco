@@ -1,0 +1,32 @@
+---
+layout: 'homepage'
+title: 'Подкаст Нескучные финансы'
+description: 'Подкаст про управление бизнесом на основе цифр записанный с командой Нескучных финансов'
+og_image: '/i/og/noboring-finance-pod-orig-OG.png'
+---
+<section class="" id="projects">
+    <div class="row row-bottom-sm row-between-sm">
+        <div class="col-xs-12 col-sm-shrink">
+            <h1 class="space-in-right-mili-lg">Подкаст: Нескучные финансы</h1>
+            <p>Подкаст про управление бизнесом на овнове цифр. Записали совместно с ребятами из <a href="https://noboring-finance.ru/">Нескучных финансов</a></p>
+            <p>В подкасте обсуждаем, как строить продуктивные отношения с цифрами, если у вам малый бизнес. Как видеть за цифрами правду, и как не сойти с ума и достигать хороших результатов, при больших обьёмах цифр.</p>
+        </div>
+        <div class="col-xs-12 col-sm-shrink">
+           <p><a href="https://noboring-finance.mave.digital/">Сайт подкаста</a></p>
+        </div>
+    </div>
+
+    <div class="row space-out-top-base-xs">
+        <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+            <a class="flex-grow-sm project-card project-card-link link col-flex-xs" href="/podcasts/noboring-finance">
+                <p><img src="/i/podcast-images/noboring-finance-pod-orig.jpg" alt=""></p>
+                <h4 class="project-card-title">Нескучные финансы</h4>
+                <p class="project-card-details">Подкаст об управлении бизнесом на основе цифр</p>
+                <p class="space-auto-top-sm space-out-bottom-nano-xs">
+                    <img src="https://badge.fury.io/js/bettertext.css.svg" alt="npm version">
+                </p>
+            </a>
+        </section>
+    </div>
+</section>
+
