@@ -18,7 +18,7 @@
 
 	``` bash
 	git clone https://github.com/dmitriyfourier/furye.ru.git
-	cd paulradzkov.com
+	cd furye.ru
 	npm install
 	bower install
 	grunt
