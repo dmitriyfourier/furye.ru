@@ -62,7 +62,6 @@
     <% if (@document.url == '/') : %>
         <div class="row row-bottom-lg space-out-top-kilo-xs">
             <div class="col-xs-12 col-lg-8 ">
-                <%- @partial('about') %>
             </div>
             <div class="col-xs-12 col-lg-4 ">
                 <div class="space-in-left-kilo-md">

@@ -1,0 +1,45 @@
+---
+layout: 'homepage'
+title: 'Первое место'
+description: 'Подкаст об управлении многоквартирными домами и придомовой территории'
+og_image: '/i/og/pervoe-mesto-pod-orig-og.png'
+---
+
+
+<h1 class="space-in-right-mili-lg">Подкаст: Первое место</h1>
+<!--ok-->
+
+<div class="row space-out-top-base-xs">
+    <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+        <!--Квадратная иллюстрашка подкаста-->
+            <p><img src="/i/podcast-images/pervoe-mesto-pod-orig.png" alt=""></p>
+        
+    </section>
+    <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+        <p>Подкаст про управление многоквартирным домом, разбираем как строить сообщество соседей, делать так, чтобы дом развивался, а не только был отремонтирован и убран.</p>
+        <p>Подкаст сосздаётся для проекта <a href="https://vk.com/neighborhood20">Добрососедство 2.0</a></p>
+        <h4>Подкаст публикуется</h4>
+        <p><a href=""><img src="/i/badges/mave-published-badge.png" alt="Слушать на Мэйв"></a></p>
+    </section>
+    <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+        <p><a href=""><img src="/i/badges/yandex-badge.png" alt="Слушать на Яндекс Музыке"></a></p>
+        <p><a href=""><img src="/i/badges/applepodcasts-badge.png" alt="Слушать на Эппл Подкастах"></a></p>
+        <p><a href=""><img src="/i/badges/spotify-badge.png" alt="Слушать в Спотифае"></a></p>
+        <p><a href=""><img src="/i/badges/vk-badge.png" alt="Слушать во Вконтакте"></a></p>
+    </a>
+</section>
+    <section class="col-xs-12 col-sm-6 col-lg-4 col-xl-3 col-flex-sm">
+        <p><a href=""><img src="/i/badges/googlepodcasts-badge.png" alt="Слушать в Гугл Подкастах"></a></p>
+        <p><a href=""><img src="/i/badges/castbox-badge.png" alt="Слушать на Кастбокс"></a></p>
+        <p><a href=""><img src="/i/badges/rss-badge.png" alt="Слушать по RSS"></a></p>
+    </section>
+
+</div>
+
+
+
+
+
+
+
+

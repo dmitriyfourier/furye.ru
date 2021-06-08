@@ -4,11 +4,10 @@
 		<% if (@document.created_at) : %>
 			<%= @moment(@document.created_at).format('YYYY') %>.
 		<% else : %>
-			2012&ndash;<%= @moment(@now).format('YYYY') %>.
+			2017&ndash;<%= @moment(@now).format('YYYY') %>.
 		<% end %>
         <br>
 		<% if ((!@document.kind) or (@document.kind != 'article')) : %>
-            Сайт работает на DocPad и хостится на GitHub Pages. <a class="link-inherit" href="https://github.com/paulradzkov/paulradzkov.com" target="_blank" rel="noopener">Исходники сайта</a> на Гитхабе.
 		<% end %>
 	</p>
 </footer>
