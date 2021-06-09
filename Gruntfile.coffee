@@ -307,11 +307,11 @@ module.exports = (grunt) ->
 		pagespeed:
 			options:
 				nokey: true
-				url: "http://furye.ru"
+				url: "https://furye.ru"
 				locale: "ru_RU"
 			prod:
 				options:
-					url: "http://furye.ru"
+					url: "https://furye.ru"
 					strategy: "desktop"
 					threshold: 90
 			paths:

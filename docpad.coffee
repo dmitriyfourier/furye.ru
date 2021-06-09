@@ -40,12 +40,12 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				Заметки Димы Фурье.
+				Финансовый директор, пишет про управление, финансы и предпринимательство.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				Paul Radzkov, web-developer, blog, html, css
+				Дмитрий Фурье
 				"""
 
 			email: "dmitriyfurye@gmail.com"
@@ -197,7 +197,7 @@ docpadConfig = {
 		ghpages:
 			templateData:
 				site:
-					url: 'http://furye.ru'
+					url: 'https://furye.ru'
 
 		development:
 			templateData:
